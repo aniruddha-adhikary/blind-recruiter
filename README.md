@@ -1,6 +1,8 @@
 # blind-recruiter
 Remove human bias from the resume screening process
 
+![A banner image, depicting a PDF resume with redacted fields marked by black ink](./_docs/blind-recruiter.banner.png)
+
 ## Introduction
 Humans are inherently biased, and when choosing resumes, biases may prevent eligible candidates from
 even making a first impression. Check out a [nifty list of biases](https://github.com/aniruddha-adhikary/blind-recruiter/wiki/Biases-to-address).
