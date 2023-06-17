@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "blind-recruiter"
+version = "0.1.0"
+description = "Remove human bias from the resume screening process"
+authors = ["Aniruddha Adhikary <aniruddha-adhikary@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "blind_recruiter"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.0.202"
+openai = "^0.27.8"
+
+
+[tool.poetry.group.dev.dependencies]
+notebook = "^6.5.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
