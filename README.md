@@ -11,3 +11,6 @@ even making a first impression. Check out a [nifty list of biases](https://githu
 ![A flow diagram visualising the step-by-step processing workflow](./_docs/flow-diagram.drawio.png)
 
 TODO: Describe the image for users using a screen reader.
+
+## Status
+As of now, all I have is a collection of Jupyter Notebooks to experiment with. Check out the notebooks folder.
